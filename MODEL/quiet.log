@@ -1,0 +1,8 @@
+Fold 0
+Fold 0
+Model 0 best validation srmse = 0.561131 on epoch 113
+Model 0 test srmse = 0.596883
+Ensemble test srmse = 0.596883
+1-fold cross validation
+Seed 0 ==> test srmse = 0.596883
+Overall test srmse = 0.596883 +/- 0.000000

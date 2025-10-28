@@ -1,0 +1,61 @@
+Fold 0
+Fold 0
+Fold 0
+Fold 0
+Fold 0
+Fold 0
+Fold 0
+Fold 0
+Fold 0
+Fold 0
+Model 0 best validation srmse = 0.225633 on epoch 243
+Fold 0
+Model 0 best validation srmse = 0.468139 on epoch 2
+Model 0 test srmse = 0.601660
+Model 1 best validation srmse = 0.581044 on epoch 0
+Model 1 test srmse = 0.683705
+Model 2 best validation srmse = 0.616226 on epoch 2
+Model 2 test srmse = 0.716265
+Model 3 best validation srmse = 0.599194 on epoch 2
+Model 3 test srmse = 0.698631
+Model 4 best validation srmse = 0.583439 on epoch 2
+Model 4 test srmse = 0.690721
+Model 5 best validation srmse = 0.419188 on epoch 2
+Model 5 test srmse = 0.578367
+Model 6 best validation srmse = 0.586974 on epoch 2
+Model 6 test srmse = 0.693552
+Model 7 best validation srmse = 0.496175 on epoch 2
+Model 7 test srmse = 0.615763
+Model 8 best validation srmse = 0.475633 on epoch 2
+Model 8 test srmse = 0.624053
+Model 9 best validation srmse = 0.449999 on epoch 2
+Model 9 test srmse = 0.604392
+Ensemble test srmse = 0.616527
+1-fold cross validation
+Seed 0 ==> test srmse = 0.616527
+Overall test srmse = 0.616527 +/- 0.000000
+Fold 0
+Model 0 best validation srmse = 0.231599 on epoch 243
+Model 0 test srmse = 0.213232
+Model 1 best validation srmse = 0.238202 on epoch 245
+Model 1 test srmse = 0.235575
+Model 2 best validation srmse = 0.241483 on epoch 244
+Model 2 test srmse = 0.224903
+Model 3 best validation srmse = 0.225360 on epoch 246
+Model 3 test srmse = 0.243126
+Model 4 best validation srmse = 0.249446 on epoch 247
+Model 4 test srmse = 0.251178
+Model 5 best validation srmse = 0.239134 on epoch 244
+Model 5 test srmse = 0.231360
+Model 6 best validation srmse = 0.236328 on epoch 248
+Model 6 test srmse = 0.240286
+Model 7 best validation srmse = 0.249861 on epoch 249
+Model 7 test srmse = 0.241682
+Model 8 best validation srmse = 0.221278 on epoch 226
+Model 8 test srmse = 0.241652
+Model 9 best validation srmse = 0.226284 on epoch 241
+Model 9 test srmse = 0.239497
+Ensemble test srmse = 0.238222
+1-fold cross validation
+Seed 0 ==> test srmse = 0.238222
+Overall test srmse = 0.238222 +/- 0.000000

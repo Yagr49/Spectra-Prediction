@@ -1,0 +1,27 @@
+Fold 0
+Fold 0
+Fold 0
+Model 0 best validation srmse = 0.701799 on epoch 19
+Model 0 test srmse = 0.815986
+Model 1 best validation srmse = 0.680389 on epoch 19
+Model 1 test srmse = 0.815211
+Model 2 best validation srmse = 0.783983 on epoch 19
+Model 2 test srmse = 0.815009
+Model 3 best validation srmse = 0.819763 on epoch 19
+Model 3 test srmse = 0.863719
+Model 4 best validation srmse = 0.788637 on epoch 19
+Model 4 test srmse = 0.859871
+Model 5 best validation srmse = 0.704744 on epoch 19
+Model 5 test srmse = 0.773056
+Model 6 best validation srmse = 0.792676 on epoch 19
+Model 6 test srmse = 0.851371
+Model 7 best validation srmse = 0.787854 on epoch 19
+Model 7 test srmse = 0.797681
+Model 8 best validation srmse = 0.728421 on epoch 19
+Model 8 test srmse = 0.764618
+Model 9 best validation srmse = 0.742578 on epoch 19
+Model 9 test srmse = 0.822458
+Ensemble test srmse = 0.794327
+1-fold cross validation
+Seed 0 ==> test srmse = 0.794327
+Overall test srmse = 0.794327 +/- 0.000000
